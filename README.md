@@ -1,1 +1,1 @@
-# Changing-Volume-by-Using-Hand-Gesture-
+This Python code uses OpenCV and MediaPipe to capture video from a webcam, detect a hand in the video, and determine if the hand is pointing up or down. Depending on the hand gesture, it adjusts the system's volume accordingly using the pyautogui library.
